@@ -1,105 +1,12 @@
-### Hi there 👋, my name is Amaan Syed
-#### I am Data Science & Machine Learning Enthusiast
+<h1 align="center">Hi 👋, I'm Amaan Syed</h1>
+<h3 align="center">I am Data Science & Machine Learning Enthusiast</h3>
 
-## My Profile
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/amaan-syed-3013a1245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amaan-syed-3013a1245/" height="30" width="40" /></a>
+</p>
 
-A meticulous and driven IT professional with a strong foundation in computer engineering and a passion for data science, machine learning, and software development. Committed to leveraging cutting-edge technologies and analytical skills to drive innovation and deliver impactful solutions. Seeking opportunities to contribute to challenging projects and collaborate with like-minded professionals in a dynamic and growth-oriented environment.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## Education
-
-**Bachelor of Engineering in Computer Engineering**
-Mumbai University, Mumbai, IN
-2019 - 2023
-CGPA: 9.06/10.0
-
-## Professional Experience
-
-### Machine Learning Intern
-**Ignitus** (Sept 2023 - Mar 2024)
-- Actively engaged in live, real-world projects involving data collection, processing, and analysis.
-- Constructed and implemented machine learning models to enhance learning management systems.
-- Collaborated with cross-functional teams to understand business requirements and translate them into actionable data-driven solutions.
-
-### Data Science and ML Intern
-**iNeuron Intelligence Pvt Ltd** (Aug 2023 - Sept 2023)
-- Collaborated on a machine learning-based email spam detection system, building a highly accurate and efficient model for improved email categorization and management.
-- Performed data preprocessing, feature engineering, and model evaluation tasks.
-- Contributed to code reviews and documentation to ensure maintainability and scalability.
-
-## Technical Skills
-
-### Programming Languages
-- Python
-- SQL
-- Java
-
-### Data Science and Machine Learning
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Statsmodels
-- Naive Bayes
-- Predictive Modeling
-
-### Tools and Platforms
-- Tableau
-- Google Colab
-- Jupyter Notebook
-- R Studio
-- NoSQL Databases
-
-### Additional Skills
-- Strong mathematical and numeracy skills
-- Analytical and problem-solving abilities
-- Effective communication and collaboration
-- Agile methodologies and teamwork
-
-## Projects
-
-### SPAM EMAIL DETECTION
-- Developed a classifier using the Naive Bayes algorithm to distinguish between spam and legitimate (ham) emails, achieving high accuracy in email categorization.
-- Performed data preprocessing, feature extraction, and model evaluation tasks.
-- Implemented the solution using Python and scikit-learn library.
-
-### DIABETES PREDICTION
-- Developed a machine learning model for classifying an individual's likelihood of having diabetes based on various health and demographic factors.
-- Utilized advanced predictive modeling techniques and data analysis for early detection and risk assessment of diabetes.
-- Achieved high precision and recall scores, demonstrating the model's effectiveness in identifying potential cases.
-
-### NETFLIX USER ANALYSIS
-- Performed an in-depth analysis of the Netflix user dataset to categorize different types of users.
-- Identified distinct user personas through statistical analysis and data visualization techniques.
-- Derived actionable insights for tailoring content, refining user experiences, and optimizing engagement strategies.
-
-## Certifications and Achievements
-
-- Data Scientist Master's Program in Collaboration with IBM
-- Ignitus Machine Learning Internship
-- iNeuron Intelligence Pvt. Ltd. Internship
-- Data Science with Python
-- SQL
-- Machine Learning
-- Tableau
-- Data Science Capstone Project
-
-## Links
-
-- LinkedIn: [Your LinkedIn URL]
-- Portfolio: [Your Portfolio URL]
-- GitHub: [Your GitHub URL]
-<!--
-**AmaanSyed110/AmaanSyed110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amaansyed110&show_icons=true&locale=en" alt="amaansyed110" /></p>
