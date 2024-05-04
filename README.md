@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Amaan Syed</h1>
 <h3 align="center">I am Data Science & Machine Learning Enthusiast</h3>
 
-- 🌱 I’m currently learning **Deep Learning, Generative AI**
+- I've worked on [SPAM EMAIL DETECTION](https://github.com/AmaanSyed110/SPAM-EMAIL-DETECTION.git)
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/AmaanSyed](https://www.datascienceportfol.io/AmaanSyed)
+- I’m currently learning **Deep Learning, Generative AI**
 
-- 💬 Ask me about **Data science, Machine Learning**
+- My project [DIABETES PREDICTION](https://github.com/AmaanSyed110/Diabetes-Prediction.git)
 
-- 📫 How to reach me **amaansyed2001.as@gmail.com**
+- Classifying Mushrooms [MUSHROOM CLASSIFICATION](https://github.com/AmaanSyed110/Mushroom-Classification.git)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aclW2Sv5JdjTYlxWeg6hHH8-a0kfVQh5/view?usp=sharing](https://drive.google.com/file/d/1aclW2Sv5JdjTYlxWeg6hHH8-a0kfVQh5/view?usp=sharing)
+- All of my projects are available at [https://www.datascienceportfol.io/AmaanSyed](https://www.datascienceportfol.io/AmaanSyed)
+
+- Ask me about **Data science, Machine Learning**
+
+- How to reach me **amaansyed2001.as@gmail.com**
+
+- Know about my experiences [https://drive.google.com/file/d/1aclW2Sv5JdjTYlxWeg6hHH8-a0kfVQh5/view?usp=sharing](https://drive.google.com/file/d/1aclW2Sv5JdjTYlxWeg6hHH8-a0kfVQh5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
