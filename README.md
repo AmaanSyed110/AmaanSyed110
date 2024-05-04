@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amaan Syed</h1>
 <h3 align="center">I am Data Science & Machine Learning Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amaansyed110" alt="amaansyed110" /></a> </p>
-
 - I’m currently learning **Deep Learning, Generative AI**
 
 - All of my projects are available at [https://www.datascienceportfol.io/AmaanSyed](https://www.datascienceportfol.io/AmaanSyed)
@@ -24,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaansyed110&show_icons=true&locale=en&layout=compact" alt="amaansyed110" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amaansyed110&show_icons=true&locale=en" alt="amaansyed110" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amaansyed110&" alt="amaansyed110" /></p>
