@@ -4,11 +4,11 @@
 
 - I’m currently learning **Deep Learning, Generative AI**
 
-- All of my projects are available at [https://www.datascienceportfol.io/AmaanSyed](https://www.datascienceportfol.io/AmaanSyed)
+- All of my projects are available <a href="https://www.datascienceportfol.io/AmaanSyed" target="_blank">Here</a>
 
 - Ask me about **Data science, Machine Learning**
 
-- Know about my experiences [https://drive.google.com/file/d/1aclW2Sv5JdjTYlxWeg6hHH8-a0kfVQh5/view?usp=sharing](https://drive.google.com/file/d/1aclW2Sv5JdjTYlxWeg6hHH8-a0kfVQh5/view?usp=sharing)
+- Know about my experiences <a href="https://drive.google.com/file/d/1aclW2Sv5JdjTYlxWeg6hHH8-a0kfVQh5/view?usp=sharing" target="_blank">Here</a>
 
 <br>
 
