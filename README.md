@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amaan Syed</h1>
-<h3 align="center">I am Data Science & Machine Learning Enthusiast</h3>
+<h3 align="center">I am Artificial Intelligence & Data Science Enthusiast</h3>
 <br>
 
 - I’m currently learning **Deep Learning, Generative AI**
 
-- All of my projects are available <a href="https://www.datascienceportfol.io/AmaanSyed" target="_blank">Here</a>
+- View my Portfolio <a href="https://www.datascienceportfol.io/AmaanSyed" target="_blank">Here</a>
 
 - Ask me about **Data science, Machine Learning**
-
-- Know about my experiences <a href="https://drive.google.com/file/d/1aclW2Sv5JdjTYlxWeg6hHH8-a0kfVQh5/view?usp=sharing" target="_blank">Here</a>
 
 <br>
 
