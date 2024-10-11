@@ -4,7 +4,7 @@
 
 - I’m currently learning **Deep Learning, Generative AI**
 
-- View my Portfolio <a href="[https://www.datascienceportfol.io/AmaanSyed](https://daffy-grouse-151.notion.site/Hey-there-I-am-Amaan-Syed-4567529bdead4837ba0d9ebaffde36cf)" target="_blank">Here</a>
+- View my Portfolio <a href="https://daffy-grouse-151.notion.site/Hey-there-I-am-Amaan-Syed-4567529bdead4837ba0d9ebaffde36cf" target="_blank">Here</a>
 
 - Ask me about **Data science, Machine Learning**
 
