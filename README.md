@@ -51,10 +51,15 @@
 
 <br>
 
+  #### Large Language Models
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://logowik.com/content/uploads/images/ollama-language-model9633.logowik.com.webp"/>](https://ollama.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://cdn.prod.website-files.com/6203b6d57823100847efd9b1/65f41595d37f53f717dd1f69_langchain%20icon-p-500.png"/>](https://github.com/langchain-ai/langchain)
+
+
 ## Contact me:
 <div>
-<a href = "mailto: amaansyed2001.as@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/amaan-syed-3013a1245/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto: amaansyed2001.as@gmail.com"><img loading="lazy" <img height="48px" width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" target="_blank"></a>
+<a href="https://www.linkedin.com/in/amaan-syed-3013a1245/" target="_blank"><img height="48px" width="48px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" target="_blank"></a>   
 </div>
 
 <br>
