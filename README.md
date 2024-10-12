@@ -54,6 +54,8 @@
   #### Large Language Models
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://logowik.com/content/uploads/images/ollama-language-model9633.logowik.com.webp"/>](https://ollama.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://cdn.prod.website-files.com/6203b6d57823100847efd9b1/65f41595d37f53f717dd1f69_langchain%20icon-p-500.png"/>](https://github.com/langchain-ai/langchain)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr7qrIazsvZwJuw-uZCtLzIjaAyVW_ZrlEQ&s"/>](https://cloud.google.com/vertex-ai/generative-ai/docs/learn-resources#get_started_with_gemini)
+
 
 
 ## Contact me:
