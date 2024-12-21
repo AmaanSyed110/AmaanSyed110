@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amaan Syed</h1>
-<h3 align="center">I am Artificial Intelligence & Data Science Enthusiast</h3>
+<h3 align="center">I am passionate about Artificial Intelligence and Data Science.</h3>
 <br>
 
 - I’m currently learning **Deep Learning, Generative AI**
