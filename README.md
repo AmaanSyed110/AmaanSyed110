@@ -32,6 +32,8 @@
 
   #### Database:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>](https://www.mysql.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4"/>](https://www.pinecone.io/)
+
 
 <br>
 
@@ -49,6 +51,7 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://imgs.search.brave.com/CjiZ1b8Me_qlPgtNygMwHznMU51jEt21ik_x4Z3p7ug/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL1N0cmVhbWxp/dC5zdmc"/>](https://streamlit.io/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://imgs.search.brave.com/jWlrQ1338FYSUIJJ63X9vadGUwl17Es0156Atk6WUA4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9saDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tLy1J/dUpiWTB6UlpGWS9a/a3ZqM2M2d2VNSS9B/QUFBQUFBQUp0VS9j/Z0JiWUdtd3NEY19L/cGJrSkRkM0VYNi1m/eXFhVkxHZHdDTmNC/R0FzWUhRL3M0MDAv/Y29sYWJfMTI4LnBu/Zw"/>](https://colab.google/)
 
 
 <br>
