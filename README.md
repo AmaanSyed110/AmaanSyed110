@@ -48,6 +48,8 @@
   #### Tools:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://imgs.search.brave.com/CjiZ1b8Me_qlPgtNygMwHznMU51jEt21ik_x4Z3p7ug/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL1N0cmVhbWxp/dC5zdmc"/>](https://streamlit.io/)
+
 
 <br>
 
