@@ -2,11 +2,9 @@
 <h3 align="center">I am passionate about Artificial Intelligence and Data Science.</h3>
 <br>
 
-- I’m currently learning **Deep Learning, Generative AI**
-
 - View my Portfolio <a href="https://daffy-grouse-151.notion.site/Hey-there-I-am-Amaan-Syed-4567529bdead4837ba0d9ebaffde36cf" target="_blank">Here</a>
 
-- Ask me about **Data science, Machine Learning**
+- Ask me about **Data science, Machine Learning, Artificial Intelligence**
 
 <br>
 
