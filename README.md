@@ -9,8 +9,9 @@
 </p>
 
 
-- Ask me about **Data science, Machine Learning, Artificial Intelligence**
+I'm an AI enthusiast currently pursuing an M.Tech in Artificial Intelligence and Data Science at Somaiya Vidyavihar University (B.E, Computer Engineering, CGPA: 9.06). With hands-on experience as an AI and ML Developer at TechDice IT Solutions and internships at Ignitus and iNeuron Intelligence, I specialize in machine learning, natural language processing (NLP), and generative AI.
 
+I’m passionate about harnessing data to create innovative solutions and am committed to continuous learning in this ever-evolving field. Excited to collaborate on impactful projects—let’s connect! 🚀
 <br>
 
 <h2 align="left">Skills & Tools</h2>
