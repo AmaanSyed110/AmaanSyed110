@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <a href="https://daffy-grouse-151.notion.site/Hey-there-I-am-Amaan-Syed-4567529bdead4837ba0d9ebaffde36cf" target="_blank">
+  <a href="https://amaan-syed-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-Explore%20Now-blue?style=for-the-badge" alt="Portfolio">
   </a>
 </p>
