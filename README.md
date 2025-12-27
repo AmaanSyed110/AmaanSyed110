@@ -14,7 +14,7 @@ I'm an AI enthusiast currently pursuing an M.Tech in Artificial Intelligence and
 I’m passionate about harnessing data to create innovative solutions and am committed to continuous learning in this ever-evolving field. Excited to collaborate on impactful projects—let’s connect! 🚀
 <br>
 
-<h2 align="left">Skills & Tools</h2>
+<h2 align="left">💻 Skills & Tools</h2>
   
 ##### Programming Languages
 <a href="https://www.python.org" title="Python - Versatile programming language"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48"></a>
@@ -53,20 +53,15 @@ I’m passionate about harnessing data to create innovative solutions and am com
 <a href="https://colab.google" title="Google Colab - Cloud-based Python notebooks"><img src="https://imgs.search.brave.com/7V32ex8IaitMJcElPFX5U29cMC9_zl9eFPEla3neAoY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2QwL0dvb2dsZV9D/b2xhYm9yYXRvcnlf/U1ZHX0xvZ28uc3Zn" alt="Google Colab" width="48" height="48"></a>
 
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AmaanSyed110&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AmaanSyed110&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanSyed110&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="center">Connect with Me</h3>
-<p align="center">Feel free to reach out for collaborations or inquiries!</p>
-<p align="center">
-  <a href="mailto:amaansyed2001.as@gmail.com"><img src="https://img.shields.io/badge/Email-amaansyed2001.as%40gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/amaan-syed-3013a1245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Amaan%20Syed-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-</p>
 
-<br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/amaan-syed-3013a1245) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amaansydd@gmail.com) 
 
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=amaansyed110&theme=dracula&show_icons=true" />
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaansyed110&layout=compact&theme=dracula" />
-  <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=amaansyed110&theme=dracula" />
-</div>
+
 
 <br>
