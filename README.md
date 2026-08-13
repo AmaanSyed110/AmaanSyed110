@@ -1,67 +1,101 @@
-<h1 align="center">Hi, I'm Amaan Syed! 👋</h1>
-<h3 align="center">Building intelligent solutions with AI to solve real-world challenges.</h3>
-<br>
+<!-- Header Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Hi,%20I'm%20Amaan%20Syed!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=Principal%20AI%20Engineer%20|%20RAG%20Architect%20|%20Systems%20Architect&descAlignY=55&descAlign=50&descSize=20" alt="header" />
+</p>
 
 <p align="center">
   <a href="https://amaan-syed-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-Explore%20Now-blue?style=for-the-badge" alt="Portfolio">
+    <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-Explore_Now-0052cc?style=for-the-badge&logo=vercel" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/amaan-syed-3013a1245" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:amaansydd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=0052CC&center=true&vCenter=true&width=600&lines=Engineering+AI+Systems+for+Production;Production+RAG+%26+Vector+Search;Autonomous+Multi-Agent+Workflows;Multimodal+Document+Intelligence" alt="Typing SVG" />
+</p>
 
-I'm an AI enthusiast currently pursuing an M.Tech in Artificial Intelligence and Data Science at Somaiya Vidyavihar University (B.E, Computer Engineering, CGPA: 9.06). With hands-on experience as an AI and ML Developer at TechDice IT Solutions and internships at Ignitus and iNeuron Intelligence, I specialize in machine learning, natural language processing (NLP), and generative AI.
+<br />
 
-I’m passionate about harnessing data to create innovative solutions and am committed to continuous learning in this ever-evolving field. Excited to collaborate on impactful projects—let’s connect! 🚀
-<br>
+## 👨‍💻 About Me
 
-<h2 align="left">💻 Skills & Tools</h2>
-  
-##### Programming Languages
-<a href="https://www.python.org" title="Python - Versatile programming language"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48"></a>
-<a href="https://www.java.com" title="Java - Object-oriented programming language"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"></a>
+I am a **Principal AI Engineer & Systems Architect** specializing in moving machine learning models out of isolated notebooks into scalable, fault-tolerant enterprise applications. With over 2 years of professional engineering experience, I architect advanced document intelligence platforms, sub-second vector search indices, and autonomous agent workflows.
 
-##### AI & Machine Learning
-<a href="https://www.tensorflow.org" title="TensorFlow - Deep learning framework"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48"></a>
-<a href="https://pytorch.org" title="PyTorch - Deep learning framework"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48"></a>
-<a href="https://pandas.pydata.org" title="Pandas - Data analysis library"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"></a>
-<a href="https://seaborn.pydata.org" title="Seaborn - Data visualization library"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48" height="48"></a>
-<a href="https://opencv.org" title="OpenCV - Computer vision library"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="48" height="48"></a>
-<a href="https://scikit-learn.org" title="Scikit-learn - Machine learning library"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="48" height="48"></a>
+- 💼 **Experience:** AI Engineer at **Kairox** | Previously AI & ML Developer at **TechDice IT Solutions**.
+- 🎓 **Education:** M.Tech in Artificial Intelligence & Data Science at Somaiya Vidyavihar University *(9.20 CGPA)* | B.E in Computer Engineering *(9.06 CGPA)*.
+- 🎯 **Core Focus:** Hybrid Vector Search & RAG, Layout-Aware Document Intelligence, and Stateful Agent Orchestration.
+- 💬 **Ask me about:** LangGraph, CrewAI, Groq Optimization, Azure Cloud deployments, and production LLMs.
 
-##### Large Language Models
-<a href="https://ollama.com" title="Ollama - Local large language models"><img src="https://logowik.com/content/uploads/images/ollama-language-model9633.logowik.com.webp" alt="Ollama" width="48" height="48"></a>
-<a href="https://www.langchain.com" title="LangChain - Framework for LLM applications"><img src="https://cdn.prod.website-files.com/6203b6d57823100847efd9b1/65f41595d37f53f717dd1f69_langchain%20icon-p-500.png" alt="LangChain" width="48" height="48"></a>
-<a href="https://cloud.google.com/vertex-ai" title="Vertex AI - Google Cloud AI platform for LLMs"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr7qrIazsvZwJuw-uZCtLzIjaAyVW_ZrlEQ&s" alt="Vertex AI" width="48" height="48"></a>
-<a href="https://platform.openai.com/docs/models/" title="GPT - OpenAI language model"><img src="https://custom.typingmind.com/assets/models/gpt-35.webp" alt="GPT-3.5" width="48" height="48"></a>
-<a href="https://www.llama.com" title="LLaMA - Meta AI language model"><img src="https://custom.typingmind.com/assets/models/llama.png" alt="LLaMA" width="48" height="48"></a>
-<a href="https://huggingface.co" title="Hugging Face - Open-source LLM and AI models"><img src="https://custom.typingmind.com/assets/models/huggingface.png" alt="Hugging Face" width="48" height="48"></a>
-<a href="https://stability.ai" title="Stability AI - Generative AI models"><img src="https://custom.typingmind.com/assets/models/stability.png" alt="Stability AI" width="48" height="48"></a>
-<a href="https://azure.microsoft.com/en-us/products/ai-services/openai-service" title="Azure OpenAI - AI model integration"><img src="https://skillicons.dev/icons?i=azure" alt="Azure OpenAI" width="48" height="48"></a>
+---
 
+## ⚡ Core Engineering Focus
 
-##### Databases
-<a href="https://www.mysql.com" title="MySQL - Relational database"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48"></a>
-<a href="https://www.pinecone.io" title="Pinecone - Vector database for AI"><img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="Pinecone" width="48" height="48"></a>
+- **Hybrid Vector Search & RAG:** Combining dense neural embeddings (BGE-M3, OpenAI) with sparse lexical search (BM25) and Cohere Rerank v3 cross-encoders to eliminate out-of-context document retrieval.
+- **Stateful Agent Orchestration:** Designing multi-agent workflows using LangGraph and CrewAI with strict Pydantic/Instructor schema validation to prevent unformatted or hallucinated model outputs.
+- **Layout-Aware Document Intelligence:** Engineering multi-modal parsing pipelines for complex PDFs, spatial multi-column tables, and embedded figures with structured vision extraction.
 
-##### DevOps & Cloud
-<a href="https://aws.amazon.com" title="AWS - Cloud computing platform"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48"></a>
+---
 
-##### Development Tools
-<a href="https://code.visualstudio.com" title="VS Code - Code editor"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48"></a>
-<a href="https://github.com" title="GitHub - Version control platform"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"></a>
-<a href="https://streamlit.io" title="Streamlit - Data app framework"><img src="https://imgs.search.brave.com/dMzwqXk0rqp9ZCq8mylRyAJnsixEQzXNaK-2LqRR3tQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHJl/YW1saXQuaW8vaW1h/Z2VzL2JyYW5kL3N0/cmVhbWxpdC1tYXJr/LWNvbG9yLnBuZw" alt="Streamlit" width="48" height="48"></a>
-<a href="https://colab.google" title="Google Colab - Cloud-based Python notebooks"><img src="https://imgs.search.brave.com/7V32ex8IaitMJcElPFX5U29cMC9_zl9eFPEla3neAoY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2QwL0dvb2dsZV9D/b2xhYm9yYXRvcnlf/U1ZHX0xvZ28uc3Zn" alt="Google Colab" width="48" height="48"></a>
+## 🛠️ Tech Stack & Skills
 
+<h3 align="center">🧠 AI, Machine Learning & Data Science</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmaanSyed110&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AmaanSyed110&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanSyed110&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">🤖 Large Language Models & GenAI</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-FF4F00?style=for-the-badge&logo=robot&logoColor=white" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT" />
+  <img src="https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure OpenAI" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</p>
 
+<h3 align="center">💻 Cloud, Architecture & DevOps</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/FAISS-333333?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-syed-3013a1245) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amaansydd@gmail.com) 
+---
 
+## 🗂️ Featured Projects
 
+<p align="center">
+  <a href="https://github.com/AmaanSyed110/Smart-ATS-Pro-AI-Resume-Analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmaanSyed110&repo=Smart-ATS-Pro-AI-Resume-Analyzer&theme=transparent&hide_border=true&title_color=0052cc&icon_color=0052cc&text_color=777" alt="Smart ATS Pro" />
+  </a>
+  <a href="https://github.com/AmaanSyed110/Multimodal-RAG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmaanSyed110&repo=Multimodal-RAG&theme=transparent&hide_border=true&title_color=0052cc&icon_color=0052cc&text_color=777" alt="Multimodal RAG" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/AmaanSyed110/A-Real-Time-Semantic-Recommendation-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmaanSyed110&repo=A-Real-Time-Semantic-Recommendation-System&theme=transparent&hide_border=true&title_color=0052cc&icon_color=0052cc&text_color=777" alt="Recommendation System" />
+  </a>
+  <a href="https://github.com/AmaanSyed110/Youtube-Video-Summarizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmaanSyed110&repo=Youtube-Video-Summarizer&theme=transparent&hide_border=true&title_color=0052cc&icon_color=0052cc&text_color=777" alt="Youtube Summarizer" />
+  </a>
+</p>
 
-<br>
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=100&section=footer" alt="footer" />
+</p>
