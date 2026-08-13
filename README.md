@@ -92,6 +92,13 @@ I am a **Principal AI Engineer & Systems Architect** specializing in moving mach
   <a href="https://github.com/AmaanSyed110/Youtube-Video-Summarizer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmaanSyed110&repo=Youtube-Video-Summarizer&theme=transparent&hide_border=true&title_color=0052cc&icon_color=0052cc&text_color=777" alt="Youtube Summarizer" />
   </a>
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmaanSyed110&theme=transparent&hide_border=true&title_color=0052cc&icon_color=0052cc&text_color=777&show_icons=true" alt="Amaan's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmaanSyed110&theme=transparent&hide_border=true&title_color=0052cc&icon_color=0052cc&text_color=777" alt="Amaan's Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanSyed110&theme=transparent&hide_border=true&title_color=0052cc&text_color=777&layout=compact" alt="Top Langs" />
 </p>
 
 ---
