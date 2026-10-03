@@ -1,4 +1,10 @@
 <!-- Header Section -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="AmaanSyed110's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Hi,%20I'm%20Amaan%20Syed!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=Principal%20AI%20Engineer%20|%20RAG%20Architect%20|%20Systems%20Architect&descAlignY=55&descAlign=50&descSize=20" alt="header" />
 </p>
