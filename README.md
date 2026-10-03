@@ -6,7 +6,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Hi,%20I'm%20Amaan%20Syed!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=Principal%20AI%20Engineer%20|%20RAG%20Architect%20|%20Systems%20Architect&descAlignY=55&descAlign=50&descSize=20" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Hi,%20I'm%20Amaan%20Syed!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=AI%20Engineer%20|%20RAG%20Architect%20|%20Systems%20Architect&descAlignY=55&descAlign=50&descSize=20" alt="header" />
 </p>
 
 <p align="center">
@@ -29,9 +29,9 @@
 
 ## 👨‍💻 About Me
 
-I am a **Principal AI Engineer & Systems Architect** specializing in moving machine learning models out of isolated notebooks into scalable, fault-tolerant enterprise applications. With over 2 years of professional engineering experience, I architect advanced document intelligence platforms, sub-second vector search indices, and autonomous agent workflows.
+I am an **AI Engineer & Systems Architect** specializing in moving machine learning models out of isolated notebooks into scalable, fault-tolerant enterprise applications. With over 2 years of professional engineering experience, I architect advanced document intelligence platforms, sub-second vector search indices, and autonomous agent workflows.
 
-- 💼 **Experience:** AI Engineer at **Kairox** | Previously AI & ML Developer at **TechDice IT Solutions**.
+- 💼 **Experience:** AI Engineer at **Integract Labs** | Previously AI Engineer at **Kairox**.
 - 🎓 **Education:** M.Tech in Artificial Intelligence & Data Science at Somaiya Vidyavihar University *(9.20 CGPA)* | B.E in Computer Engineering *(9.06 CGPA)*.
 - 🎯 **Core Focus:** Hybrid Vector Search & RAG, Layout-Aware Document Intelligence, and Stateful Agent Orchestration.
 - 💬 **Ask me about:** LangGraph, CrewAI, Groq Optimization, Azure Cloud deployments, and production LLMs.
