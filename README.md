@@ -1,8 +1,8 @@
 <!-- Header Section -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="AmaanSyed110's GitHub profile" src="dark_mode.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmaanSyed110/AmaanSyed110/main/dark_mode.svg?v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmaanSyed110/AmaanSyed110/main/light_mode.svg?v=3" />
+  <img alt="AmaanSyed110's GitHub profile" src="https://raw.githubusercontent.com/AmaanSyed110/AmaanSyed110/main/dark_mode.svg?v=3" />
 </picture>
 
 <p align="center">
